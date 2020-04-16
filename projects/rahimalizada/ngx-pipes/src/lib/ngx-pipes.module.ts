@@ -1,8 +1,9 @@
 import { NgModule } from '@angular/core';
+import { YesNoPipe } from './yes-no.pipe';
 
 @NgModule({
-  declarations: [],
+  declarations: [YesNoPipe],
   imports: [],
-  exports: [],
+  exports: [YesNoPipe],
 })
 export class NgxPipesModule {}
