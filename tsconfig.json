@@ -14,7 +14,13 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "@rahimalizada/ngx-pipes": [
+        "dist/rahimalizada/ngx-pipes/rahimalizada-ngx-pipes",
+        "dist/rahimalizada/ngx-pipes"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
