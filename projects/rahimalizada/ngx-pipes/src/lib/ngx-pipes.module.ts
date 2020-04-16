@@ -1,12 +1,8 @@
 import { NgModule } from '@angular/core';
-import { NgxPipesComponent } from './ngx-pipes.component';
-
-
 
 @NgModule({
-  declarations: [NgxPipesComponent],
-  imports: [
-  ],
-  exports: [NgxPipesComponent]
+  declarations: [],
+  imports: [],
+  exports: [],
 })
-export class NgxPipesModule { }
+export class NgxPipesModule {}
