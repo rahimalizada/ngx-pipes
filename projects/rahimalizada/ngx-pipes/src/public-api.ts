@@ -3,3 +3,5 @@
  */
 
 export * from './lib/ngx-pipes.module';
+export * from './lib/yes-no-pipe-settings';
+export * from './lib/yes-no.pipe';
