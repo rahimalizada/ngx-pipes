@@ -1,6 +1,24 @@
 {
   "name": "ngx-pipes",
   "version": "0.0.3",
+  "description": "A collection of Angular pipes",
+  "keywords": [
+    "angular",
+    "pipe",
+    "library"
+  ],
+  "author": {
+    "name": "Rahim Alizada"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/rahimalizada/ngx-pipes",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahimalizada/ngx-pipes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rahimalizada/ngx-pipes/issues"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
